@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D4771F-7E6F-5700-8714-97AC31F32A35}|Assembly-CSharp.csproj|h:\\damvi 2\u00BA\\interficies\\minimenupausa\\assets\\scripts\\dropdownresolutionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D4771F-7E6F-5700-8714-97AC31F32A35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dropdownresolutionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D4771F-7E6F-5700-8714-97AC31F32A35}|Assembly-CSharp.csproj|H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D4771F-7E6F-5700-8714-97AC31F32A35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D4771F-7E6F-5700-8714-97AC31F32A35}|Assembly-CSharp.csproj|H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\assets\\scripts\\radomsoundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D4771F-7E6F-5700-8714-97AC31F32A35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\radomsoundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D4771F-7E6F-5700-8714-97AC31F32A35}|Assembly-CSharp.csproj|h:\\damvi 2\u00BA\\interficies\\minimenupausa\\assets\\scripts\\volumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D4771F-7E6F-5700-8714-97AC31F32A35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\volumcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D4771F-7E6F-5700-8714-97AC31F32A35}|Assembly-CSharp.csproj|H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\assets\\scripts\\pausefreezecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D4771F-7E6F-5700-8714-97AC31F32A35}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausefreezecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DropdownResolutionManager.cs",
+              "DocumentMoniker": "H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\Assets\\Scripts\\DropdownResolutionManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DropdownResolutionManager.cs",
+              "ToolTip": "H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\Assets\\Scripts\\DropdownResolutionManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DropdownResolutionManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwD0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T19:16:07.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VolumController.cs",
+              "DocumentMoniker": "H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\Assets\\Scripts\\VolumController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VolumController.cs",
+              "ToolTip": "H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\Assets\\Scripts\\VolumController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VolumController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:29:29.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RadomSoundController.cs",
+              "DocumentMoniker": "H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\Assets\\Scripts\\RadomSoundController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RadomSoundController.cs",
+              "ToolTip": "H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\Assets\\Scripts\\RadomSoundController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RadomSoundController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:35:36.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T17:17:18.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PauseFreezeController.cs",
+              "DocumentMoniker": "H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\Assets\\Scripts\\PauseFreezeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseFreezeController.cs",
+              "ToolTip": "H:\\DAMVI 2\u00BA\\Interficies\\MiniMenuPausa\\Assets\\Scripts\\PauseFreezeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseFreezeController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwEgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:45:06.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
